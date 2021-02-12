@@ -4,6 +4,8 @@ Some modifications that I've made to the AR3 hardware. They are designed to be a
 ## Inductive Limit Switches
 I repositioned the J5 limit switch to calibrate directly against the J6 bearing cap, which should be more accurate than using the belt carrier. I also took the opportunity to try out an inductive sensor, which I thought would be easier to position for the calibration angle than the mechanical switches. Having inductive limit switches will also help avoid cases of damaged or bent limit switches. It seems to have worked well so I'll eventually redesign and replace the other limit switches as well.
 
+[![](http://img.youtube.com/vi/8Dm-i5OytqE/0.jpg)](https://www.youtube.com/watch?v=8Dm-i5OytqE "J5 Inductive Limit Switch")
+
 -----
 
 ### J5 Limit Switch
