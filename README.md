@@ -1,7 +1,7 @@
 # AR3 Hardware Mods
 Some modifications that I've made to the AR3 hardware. They are designed to be added on with minimal disassembly.
 
-## Joint Limit Switches
+## Inductive Limit Switches
 I repositioned the J5 limit switch to calibrate directly against the J6 bearing cap, which should be more accurate than using the belt carrier. I also took the opportunity to try out an inductive sensor, which I thought would be easier to position for the calibration angle than the mechanical switches. Having inductive limit switches will also help avoid cases of damaged or bent limit switches. It seems to have worked well so I'll eventually redesign and replace the other limit switches as well.
 
 -----
