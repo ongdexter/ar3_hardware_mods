@@ -13,6 +13,7 @@ I repositioned the J5 limit switch to calibrate directly against the J6 bearing 
   **NOTE**: be sure to mount it in the orientation with the correct polarity, test with the sensor first
 * Sensor mount can be secured to the J6 main bearing arm with two M4x20 flathead screws, replacing the existing ones
 * The sensor mount is designed to have just enough tolerance for the sensor to slide up and down with some force applied, this is to allow you to adjust the distance of the sensor from the magnet to calibrate the sensitivity. You'll want to adjust it such that the sensor is triggered only when the magnet is directly above
+* The bearing cap is not fixed directly to the J6 housing so you'll have to manually rotate it so that the top and bottom screws are vertically aligned (see the first image below). This may require some trial-and-error - a good way I've found is to calibrate against the limit switch, send J5 to the 0-degree position through software, and then check if the J6 housing is aligned against the J5 cover spacer. After a good alignment is achieved, however, the bearing cap rotates with the J6 housing and can provide an accurate measurement of the rotation
 
   <img src=./images/j5_limit_switch_1.jpg width="200">
   <img src=./images/j5_limit_switch_2.jpg width="200">
